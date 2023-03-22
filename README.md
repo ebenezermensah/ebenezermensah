@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ebenezer jojo mensah
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently a Frontend Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
